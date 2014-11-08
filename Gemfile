@@ -12,7 +12,7 @@ gem 'unicorn'
 gem 'pry'
 
 group :development, :test do
-  gem 'better_erros'
+  gem 'better_errors'
   gem 'binding_of_caller'
   gem 'factory_girl_rails'
 end
